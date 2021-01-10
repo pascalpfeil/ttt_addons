@@ -1,0 +1,10 @@
+{
+	"title"		: "TTT Traitor Remote",
+	"type"		: "weapon",
+	"tags"		: [],
+	"ignore"	: [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

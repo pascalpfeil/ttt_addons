@@ -1,0 +1,1 @@
+..\gmpublish.exe create -addon ttt_advanced_disguiser.gma -icon addon_icon.jpg

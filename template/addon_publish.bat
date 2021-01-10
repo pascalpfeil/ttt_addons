@@ -1,0 +1,1 @@
+..\gmpublish.exe create -addon ttt_addon.gma -icon addon_icon.jpg

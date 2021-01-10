@@ -1,0 +1,10 @@
+{
+	"title"		: "TTT Advanced Disguiser",
+	"type"		: "weapon",
+	"tags"		: [],
+	"ignore"	: [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

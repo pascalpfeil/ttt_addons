@@ -1,0 +1,1 @@
+..\gmpublish.exe create -addon ttt_toxin_pack.gma -icon ttt_toxin_pack_icon.jpg
